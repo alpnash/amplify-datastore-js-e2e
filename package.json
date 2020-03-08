@@ -3,8 +3,8 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "@aws-amplify/core": "^2.2.5",
-        "@aws-amplify/datastore": "^1.0.8",
+        "@aws-amplify/core": "https://amplify-preview.s3-us-west-2.amazonaws.com/datastore/aws-amplify-core-1.2.4.tgz",
+        "@aws-amplify/datastore": "https://amplify-preview.s3-us-west-2.amazonaws.com/datastore/aws-amplify-datastore-1.0.0.tgz",
         "react": "^16.12.0",
         "react-dom": "^16.12.0",
         "react-scripts": "3.2.0"
